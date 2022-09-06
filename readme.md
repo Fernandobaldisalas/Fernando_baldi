@@ -3,5 +3,5 @@
 3. gigit add .
 4. git reset .
 5. commit -m "nombre del comit"
-6. 
+6. git checkout -- . 
 7. 
